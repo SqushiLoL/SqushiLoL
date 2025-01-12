@@ -1,5 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp13489009.jpg)]()
-<h1 align="center">Hi 👋, I'm Squshi</h1>
+<h1 align="center">Hi 👋, I'm Marius</h1>
 <h3 align="center">A passionate backend developer and currently a student at DIKU, the Department of Computer Science at the University of Copenhagen.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SqushiLoL?tab=repositories](https://github.com/SqushiLoL?tab=repositories)
